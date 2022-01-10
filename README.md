@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @szabolcsfule. I'm a computer science and engineering student at the University of Szeged, Hungary. 
 - 👀 I’m interested in Data Science, Machine Learning, Computer Vision and FullStack development.
 - 💻 My most prefered programming languages are: Python, JavaScript and learning GoLang is also in progress.
-- 📈 I’m currently learning MERN stack.
+- 📈 Currently I'm learning MERN stack.
 - 📚 Take a look at my portfolio projects and learning project uploaded here.
 - 📫 How to reach me: work.szabolcsfule@gmail.com
 
